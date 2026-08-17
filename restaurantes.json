@@ -1,13 +1,58 @@
 [
   { "nombre": "Pizza Hut - Bulevar Morazán", "lat": 14.1030, "lon": -87.1800, "departamento": "Francisco Morazán", "cadena": "Pizza Hut" },
-  { "nombre": "Pizza Hut - Circunvalación", "lat": 15.5000, "lon": -88.0200, "departamento": "Cortés", "cadena": "Pizza Hut" },
-  { "nombre": "Pizza Hut - Choluteca Centro", "lat": 13.3030, "lon": -87.1900, "departamento": "Choluteca", "cadena": "Pizza Hut" },
+  { "nombre": "Pizza Hut - Bulevar Suyapa", "lat": 14.0860, "lon": -87.1620, "departamento": "Francisco Morazán", "cadena": "Pizza Hut" },
+  { "nombre": "Pizza Hut - Mall Multiplaza TGU", "lat": 14.0900, "lon": -87.1850, "departamento": "Francisco Morazán", "cadena": "Pizza Hut" },
   { "nombre": "Burger King - Juan Pablo II", "lat": 14.0920, "lon": -87.1850, "departamento": "Francisco Morazán", "cadena": "Burger King" },
-  { "nombre": "Burger King - City Mall", "lat": 15.5100, "lon": -88.0300, "departamento": "Cortés", "cadena": "Burger King" },
   { "nombre": "Wendy's - Próceres", "lat": 14.1080, "lon": -87.1700, "departamento": "Francisco Morazán", "cadena": "Wendy's" },
-  { "nombre": "Wendy's - Bulevar Enrique Weddle", "lat": 13.3050, "lon": -87.1850, "departamento": "Choluteca", "cadena": "Wendy's" },
   { "nombre": "Little Caesars - Kennedy", "lat": 14.0650, "lon": -87.1650, "departamento": "Francisco Morazán", "cadena": "Little Caesars" },
-  { "nombre": "Little Caesars - SPS Centro", "lat": 15.5050, "lon": -88.0250, "departamento": "Cortés", "cadena": "Little Caesars" },
   { "nombre": "Popeyes - Bulevar Suyapa", "lat": 14.0850, "lon": -87.1600, "departamento": "Francisco Morazán", "cadena": "Popeyes" },
-  { "nombre": "Papa John's - Lomas", "lat": 14.0950, "lon": -87.1750, "departamento": "Francisco Morazán", "cadena": "Papa John's" }
+  { "nombre": "Papa John's - Lomas", "lat": 14.0950, "lon": -87.1750, "departamento": "Francisco Morazán", "cadena": "Papa John's" },
+
+  { "nombre": "Pizza Hut - Circunvalación", "lat": 15.5000, "lon": -88.0200, "departamento": "Cortés", "cadena": "Pizza Hut" },
+  { "nombre": "Pizza Hut - City Mall SPS", "lat": 15.5100, "lon": -88.0300, "departamento": "Cortés", "cadena": "Pizza Hut" },
+  { "nombre": "Burger King - City Mall SPS", "lat": 15.5120, "lon": -88.0320, "departamento": "Cortés", "cadena": "Burger King" },
+  { "nombre": "Wendy's - Circunvalación", "lat": 15.5020, "lon": -88.0220, "departamento": "Cortés", "cadena": "Wendy's" },
+  { "nombre": "Little Caesars - SPS Centro", "lat": 15.5050, "lon": -88.0250, "departamento": "Cortés", "cadena": "Little Caesars" },
+  { "nombre": "Popeyes - Bulevar del Sur", "lat": 15.4800, "lon": -88.0300, "departamento": "Cortés", "cadena": "Popeyes" },
+  { "nombre": "Papa John's - Río de Piedras", "lat": 15.5080, "lon": -88.0350, "departamento": "Cortés", "cadena": "Papa John's" },
+  { "nombre": "Pizza Hut - Puerto Cortés", "lat": 15.8333, "lon": -87.9333, "departamento": "Cortés", "cadena": "Pizza Hut" },
+  { "nombre": "Wendy's - Villanueva", "lat": 15.3167, "lon": -88.0000, "departamento": "Cortés", "cadena": "Wendy's" },
+
+  { "nombre": "Pizza Hut - Choluteca Centro", "lat": 13.3030, "lon": -87.1900, "departamento": "Choluteca", "cadena": "Pizza Hut" },
+  { "nombre": "Wendy's - Bulevar Enrique Weddle", "lat": 13.3050, "lon": -87.1850, "departamento": "Choluteca", "cadena": "Wendy's" },
+  { "nombre": "Little Caesars - Choluteca", "lat": 13.3080, "lon": -87.1820, "departamento": "Choluteca", "cadena": "Little Caesars" },
+  { "nombre": "Burger King - Choluteca", "lat": 13.3010, "lon": -87.1880, "departamento": "Choluteca", "cadena": "Burger King" },
+
+  { "nombre": "Pizza Hut - La Ceiba", "lat": 15.7597, "lon": -86.7822, "departamento": "Atlántida", "cadena": "Pizza Hut" },
+  { "nombre": "Burger King - La Ceiba", "lat": 15.7620, "lon": -86.7850, "departamento": "Atlántida", "cadena": "Burger King" },
+  { "nombre": "Wendy's - Megaplaza La Ceiba", "lat": 15.7600, "lon": -86.7800, "departamento": "Atlántida", "cadena": "Wendy's" },
+  { "nombre": "Little Caesars - La Ceiba", "lat": 15.7550, "lon": -86.7880, "departamento": "Atlántida", "cadena": "Little Caesars" },
+  { "nombre": "Pizza Hut - Tela", "lat": 15.7833, "lon": -87.4500, "departamento": "Atlántida", "cadena": "Pizza Hut" },
+
+  { "nombre": "Pizza Hut - Comayagua Centro", "lat": 14.4530, "lon": -87.6380, "departamento": "Comayagua", "cadena": "Pizza Hut" },
+  { "nombre": "Wendy's - Comayagua", "lat": 14.4550, "lon": -87.6350, "departamento": "Comayagua", "cadena": "Wendy's" },
+  { "nombre": "Little Caesars - Comayagua", "lat": 14.4500, "lon": -87.6400, "departamento": "Comayagua", "cadena": "Little Caesars" },
+  { "nombre": "Pizza Hut - Siguatepeque", "lat": 14.6000, "lon": -87.8333, "departamento": "Comayagua", "cadena": "Pizza Hut" },
+  { "nombre": "Wendy's - Siguatepeque", "lat": 14.6020, "lon": -87.8300, "departamento": "Comayagua", "cadena": "Wendy's" },
+
+  { "nombre": "Pizza Hut - El Progreso", "lat": 15.4000, "lon": -87.8000, "departamento": "Yoro", "cadena": "Pizza Hut" },
+  { "nombre": "Wendy's - Mall Megaplaza Progreso", "lat": 15.4050, "lon": -87.8050, "departamento": "Yoro", "cadena": "Wendy's" },
+  { "nombre": "Little Caesars - El Progreso", "lat": 15.3950, "lon": -87.7950, "departamento": "Yoro", "cadena": "Little Caesars" },
+
+  { "nombre": "Pizza Hut - Santa Rosa de Copán", "lat": 14.7667, "lon": -88.7792, "departamento": "Copán", "cadena": "Pizza Hut" },
+  { "nombre": "Little Caesars - Santa Rosa", "lat": 14.7680, "lon": -88.7750, "departamento": "Copán", "cadena": "Little Caesars" },
+
+  { "nombre": "Pizza Hut - Juticalpa", "lat": 14.6667, "lon": -86.2167, "departamento": "Olancho", "cadena": "Pizza Hut" },
+  { "nombre": "Little Caesars - Juticalpa", "lat": 14.6680, "lon": -86.2150, "departamento": "Olancho", "cadena": "Little Caesars" },
+  { "nombre": "Pizza Hut - Catacamas", "lat": 14.8500, "lon": -85.9000, "departamento": "Olancho", "cadena": "Pizza Hut" },
+
+  { "nombre": "Pizza Hut - Roatán", "lat": 16.3167, "lon": -86.5333, "departamento": "Islas de la Bahía", "cadena": "Pizza Hut" },
+  { "nombre": "Wendy's - Roatán", "lat": 16.3200, "lon": -86.5300, "departamento": "Islas de la Bahía", "cadena": "Wendy's" },
+
+  { "nombre": "Pizza Hut - Danlí", "lat": 14.0358, "lon": -86.5725, "departamento": "El Paraíso", "cadena": "Pizza Hut" },
+  { "nombre": "Little Caesars - Danlí", "lat": 14.0380, "lon": -86.5700, "departamento": "El Paraíso", "cadena": "Little Caesars" },
+
+  { "nombre": "Pizza Hut - San Lorenzo", "lat": 13.4167, "lon": -87.4500, "departamento": "Valle", "cadena": "Pizza Hut" },
+
+  { "nombre": "Pizza Hut - Santa Bárbara", "lat": 14.9167, "lon": -88.2333, "departamento": "Santa Bárbara", "cadena": "Pizza Hut" }
 ]
